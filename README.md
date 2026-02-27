@@ -6,6 +6,10 @@ Author: Your Name
 
 ---
 
+> **Organization:** Cryptonic Area  
+> **Duration:** 1–8 February 2026  
+> **This project was created as part of the Cryptonic Area Internship Program.**
+>
 ## 📌 Overview
 
 This project simulates a real-world Security Operations Center (SOC) workflow.
