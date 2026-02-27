@@ -2,7 +2,7 @@
 
 Advanced Industry-Grade SOC / Blue Team Simulation Project  
 Duration: 19 FEB – 28 FEB  
-Author: Your Name  
+Author: Sada Ullah
 
 ---
 
