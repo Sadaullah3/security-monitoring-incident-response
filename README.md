@@ -7,7 +7,7 @@ Author: Your Name
 ---
 
 > **Organization:** Cryptonic Area  
-> **Duration:** 1–8 February 2026  
+> **Duration:** 19-28 February 2026  
 > **This project was created as part of the Cryptonic Area Internship Program.**
 >
 ## 📌 Overview
